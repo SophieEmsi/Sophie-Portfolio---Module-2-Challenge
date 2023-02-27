@@ -107,3 +107,56 @@
           font-size:20px;
           font-weight:100
       }
+
+      section {
+                    
+        width: 100%;
+        
+        display: flex;
+        
+        background-color: #fce138;
+        
+        padding: 50px;
+        
+        }
+        .work{
+            width: 100%;
+            height: 600px;
+            background-color: #636aeb;
+        }
+        section h2{
+
+            display: flex;
+            
+            justify-content: flex-end;
+            
+            align-items: center;
+            
+            width: 20%;
+            
+            color: #02075d;
+            
+            font-size: 36px;
+            
+            padding-right: 10px;
+            
+            border-right: 4px solid #02075d;
+            
+            }
+            
+            section p{
+            display: flex;
+            
+            justify-content: flex-end;
+            
+            align-items: center;
+            
+            width: 60%;
+            
+            font-size: 20px;
+            
+            color: #02075d;
+            
+            margin-left: 50px;
+            
+            }
