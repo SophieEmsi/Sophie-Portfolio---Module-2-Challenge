@@ -10,9 +10,7 @@
 
 
 
-    ```md
-    ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.41.45.png)
-    ```
-    ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.42.06.png)
 
+    ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.41.45.png)
+    ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.42.06.png)
     ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.42.21.png)
