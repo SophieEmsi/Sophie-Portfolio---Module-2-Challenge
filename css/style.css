@@ -108,7 +108,7 @@
           font-weight:100
       }
 
-      .about-me {    
+      #about-me {    
           width: 100%;
           display: flex;
           background-color: #bfb4bf;
@@ -123,7 +123,7 @@
     
           }
     
-    .about-me h2 {
+    #about-me h2 {
       display: flex;
       justify-content: center;
       align-items: center;
@@ -135,7 +135,7 @@
     font-style: italic;
             }
 
-   .about-me p {
+   #about-me p {
     
       display: flex;
       
@@ -164,12 +164,28 @@
     display: flex;
       justify-content: center;
       align-items: center;
-      width: 21.5%;
+      width: 25%;
       color: #f2e4d8;
       font-size: 42px;
     padding-right: 10px;
       border-right: 10px solid #000000;
     font-style: italic;
+  }
+
+  #work p {
+    display: flex;
+      
+    justify-content: flex-end;
+    
+    align-items: center;
+    
+    width: 70%;
+    
+    font-size: 21px;
+    
+    color: #000000;
+    
+    margin-left: 50px;
   }
 
   #categoryGrid {
@@ -182,13 +198,13 @@
     grid-template-rows: 300px 300px 300px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas:
-    "surf-report led-wall led-wall"
+    "surf-report surf-report surf-report"
     "calculator calculator run-buddy"
-    "pastel-puzzels pastel-puzzels pastel-puzzels"
+    "pastel-puzzels pastel-puzzels  led-wall"
     ;
   }
   #surf-report {
-    grid-area: "surf-report";
+    grid-area: surf-report;
     background-image: url("../images/02-portfolio-4.jpg");
   }
 
@@ -211,7 +227,12 @@
     grid-area: run-buddy;
     background-image: url("../images/02-run-buddy.jpg");
   }
-
+ .heading {
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+  font-size: 36px;
+    
+    color: white;
+ }
   .categoryGridArea {
     background-position: center;
     background-size: cover;
