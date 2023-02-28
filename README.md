@@ -14,3 +14,5 @@
     ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.41.45.png)
     ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.42.06.png)
     ![Sophie Portfolio](images/Screenshot%202023-02-28%20at%2019.42.21.png)
+
+    https://sophieemsi.github.io/Sophie-Portfolio---Module-2-Challenge/
